@@ -10,7 +10,8 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -196,3 +197,47 @@ dist
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
 
+storybook-static/0.59f76cb7b4a00b1a8d37.manager.bundle.js
+storybook-static/4.a9f752a1ca8368d329c1.manager.bundle.js
+storybook-static/4.a9f752a1ca8368d329c1.manager.bundle.js.LICENSE.txt
+storybook-static/5.16ad6666ef9321277059.manager.bundle.js
+storybook-static/6.40da73ec27aaa7902b81.manager.bundle.js
+storybook-static/6.40da73ec27aaa7902b81.manager.bundle.js.LICENSE.txt
+storybook-static/7.61affb84bcfb3ff8eeca.manager.bundle.js
+storybook-static/8.1d8cda7d15cd3cab8314.manager.bundle.js
+storybook-static/favicon.ico
+storybook-static/iframe.html
+storybook-static/index.html
+storybook-static/main.4ff471e8ead6436aabd5.manager.bundle.js
+storybook-static/runtime~main.120d68a2947def3ef4c6.manager.bundle.js
+storybook-static/vendors~main.39a4e771f062c2e167b3.manager.bundle.js
+storybook-static/vendors~main.39a4e771f062c2e167b3.manager.bundle.js.LICENSE.txt
+storybook-static/assets/axe.19f727ce.js
+storybook-static/assets/axe.19f727ce.js.map
+storybook-static/assets/code-brackets.9ef6443e.svg
+storybook-static/assets/Color.c7a7dd1f.js
+storybook-static/assets/Color.c7a7dd1f.js.map
+storybook-static/assets/colors.ac9401f3.svg
+storybook-static/assets/comments.f15a6837.svg
+storybook-static/assets/direction.94a9917f.svg
+storybook-static/assets/flow.275142c6.svg
+storybook-static/assets/GlobalScrollAreaStyles.966b40ed.js
+storybook-static/assets/GlobalScrollAreaStyles.966b40ed.js.map
+storybook-static/assets/iframe.6f580fa1.js
+storybook-static/assets/iframe.6f580fa1.js.map
+storybook-static/assets/iframe.977904f4.css
+storybook-static/assets/index.93dba25c.js
+storybook-static/assets/index.93dba25c.js.map
+storybook-static/assets/OverlayScrollbars.a16fb71b.js
+storybook-static/assets/OverlayScrollbars.a16fb71b.js.map
+storybook-static/assets/plugin.57148314.svg
+storybook-static/assets/renderDocs.6a5dfa9b.js
+storybook-static/assets/renderDocs.6a5dfa9b.js.map
+storybook-static/assets/repo.fb4ece47.svg
+storybook-static/assets/stackalt.2ad81543.svg
+storybook-static/assets/syntaxhighlighter.06e3169e.js
+storybook-static/assets/syntaxhighlighter.06e3169e.js.map
+storybook-static/assets/vendor.453b1672.js
+storybook-static/assets/vendor.453b1672.js.map
+storybook-static/assets/WithTooltip.9b8edc57.js
+storybook-static/assets/WithTooltip.9b8edc57.js.map
