@@ -1,8 +1,8 @@
 <template>
-  <button type="button" :class="classes" @click="onClick" :style="style">{{ label }}</button>
+  <button type="button" className="bg-red-500" @click="onClick" :style="style">{{ label }}</button>
 </template>
 
-<script>
+<script lang="ts">
 import './button.css';
 import { reactive, computed } from 'vue';
 
