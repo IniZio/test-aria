@@ -7,7 +7,8 @@
     "preview": "vite preview",
     "storybook": "NODE_OPTIONS=--openssl-legacy-provider start-storybook -p 6006",
     "build-storybook": "NODE_OPTIONS=--openssl-legacy-provider build-storybook",
-    "view-windicss": "npx windicss-analysis"
+    "view-windicss": "npx windicss-analysis",
+    "chromatic": "npx chromatic --project-token=${CHROMATIC_PROJECT_TOKEN}"
   },
   "dependencies": {
     "vue": "^3.2.25"
