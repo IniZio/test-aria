@@ -1,3 +1,5 @@
+const WindiCSS = require('vite-plugin-windicss').default
+
 module.exports = {
   "stories": [
     "../src/**/*.stories.mdx",
@@ -11,5 +13,12 @@ module.exports = {
   "framework": "@storybook/vue3",
   "core": {
     "builder": "storybook-builder-vite"
-  }
+  },
+  async viteFinal(config, {configType}) {
+    config.resolve.dedupe = ["@storybook/client-api"]
+
+    config.plugins.push(WindiCSS())
+
+    return config
+  },
 }
